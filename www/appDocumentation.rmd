@@ -8,3 +8,5 @@ output: html_document
 This is a simple app that let's a fantasy football league member create a plot that shows the point total for each position for the desired owners and weeks.
 
 Simply choose the desired owners and week and click the update button.
+
+The dataset includes player and owner information scraped from the ESPN website and compiled into a clean dataset.
