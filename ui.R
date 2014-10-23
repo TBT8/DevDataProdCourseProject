@@ -40,7 +40,7 @@ shinyUI(fluidPage(
                                                                         "7" = 7),
                                                 selected = c(1:7)))  
                              
-                             ), submitButton("Update")),
+                             ), submitButton("Update"),  p("Documentation:",a("Fantasy Football Shiny App",href="appDocumentation.html"))),
                 mainPanel(plotOutput("plot1")),
                 )
         )

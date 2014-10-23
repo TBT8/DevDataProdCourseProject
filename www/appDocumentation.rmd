@@ -1,0 +1,10 @@
+---
+title: "Shiny App Documentation"
+author: "Thad Truman"
+date: "Thursday, October 23, 2014"
+output: html_document
+---
+
+This is a simple app that let's a fantasy football league member create a plot that shows the point total for each position for the desired owners and weeks.
+
+Simply choose the desired owners and week and click the update button.
